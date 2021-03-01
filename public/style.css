@@ -21,7 +21,7 @@
 }
 .menu-item{
   color:#c0c0c0;
-  padding-left:10px;
+  padding-right:10px;
   text-decoration:none;
   transition: 0.3s ease-in;
 }
@@ -33,6 +33,13 @@ body{
   background-color: #0d1117;
   margin: 0;
 }
-.menu{
-  align-items: left;
+.index-item{
+  color:#c0c0c0;
+  padding-right:10px;
+  text-decoration:none;
+  transition: 0.3s ease-in;
+}
+.index-item:hover{
+  color:#f0f0f0;
+  font-size: 18px;
 }
