@@ -1,0 +1,25 @@
+.header {
+    margin: 0;
+    padding: 0;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: #161b22;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    text-align: center;
+}
+.title{
+  color: #ffffff;
+  text-align: center;
+  left:0;
+  right:0;
+  margin-left:auto;
+  margin-right:auto;
+  font-size: 30px;
+}
+.discord{
+  color:#c0c0c0;
+  padding-right:10px;
+}
